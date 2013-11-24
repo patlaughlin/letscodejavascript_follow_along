@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="661dbc1a-b067-4199-96fb-591bc72497a9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/_server_test.js" afterPath="$PROJECT_DIR$/src/server/_server_test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jakefile.js" afterPath="$PROJECT_DIR$/jakefile.js" />
     </list>
     <ignored path="letscodejavascript.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -10,6 +10,7 @@
     <file path="/package.json" changelist="661dbc1a-b067-4199-96fb-591bc72497a9" time="1385317464656" ignored="false" />
     <file path="/README.md" changelist="661dbc1a-b067-4199-96fb-591bc72497a9" time="1385317928235" ignored="false" />
     <file path="/_server_test.js" changelist="661dbc1a-b067-4199-96fb-591bc72497a9" time="1385318053171" ignored="false" />
+    <file path="/jakefile.js" changelist="661dbc1a-b067-4199-96fb-591bc72497a9" time="1385318101632" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,19 +80,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jakefile.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="jakefile.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jakefile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="6" selection-start="821" selection-end="821" vertical-scroll-proportion="0.0">
+            <state line="23" column="59" selection-start="755" selection-end="755" vertical-scroll-proportion="0.34735706">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_server_test.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_server_test.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/server/_server_test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="1" selection-start="16" selection-end="16" vertical-scroll-proportion="0.03236246">
+            <state line="5" column="1" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -127,10 +128,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/jakefile.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/server/_server_test.js" />
+        <option value="$PROJECT_DIR$/jakefile.js" />
       </list>
     </option>
   </component>
@@ -425,16 +426,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jakefile.js">
+    <entry file="file://$PROJECT_DIR$/src/server/_server_test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="6" selection-start="821" selection-end="821" vertical-scroll-proportion="0.0">
+        <state line="5" column="1" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/server/_server_test.js">
+    <entry file="file://$PROJECT_DIR$/jakefile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="1" selection-start="16" selection-end="16" vertical-scroll-proportion="0.03236246">
+        <state line="23" column="59" selection-start="755" selection-end="755" vertical-scroll-proportion="0.34735706">
           <folding />
         </state>
       </provider>
