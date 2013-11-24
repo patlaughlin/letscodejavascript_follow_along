@@ -20,10 +20,16 @@
     });
 
     desc("Test everything");
+
     task("test", [], function() {
-        var reporter = require("nodeunit").reporters.minimal;
-        reporter.run(['src/server/_server_test.js']);
-    });
+        var reporter = require("nodeunit").reporters["default"];
+
+        reporter.run(['src/server/_server_test.js'], null, function(failures) {
+            console.log('test done');
+            complete();
+
+        });
+    }, {async: false});
 
     desc("Integrate");
     task("integrate", ["default"], function() {
